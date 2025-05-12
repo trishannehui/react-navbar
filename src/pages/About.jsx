@@ -16,7 +16,7 @@ export default function About() {
           <p>
             I aim to blend technical skills with visual storytelling — and my favorite themes involve rich,
             warm tones like <strong>gold</strong> and <strong>chocolate brown</strong>. Outside of coding, I enjoy
-            exploring design trends, sipping coffee, and sketching new UI ideas.
+            exploring design trends, sipping hot chocolate, and brainstorming new UI ideas.
           </p>
         </div>
     </section>
